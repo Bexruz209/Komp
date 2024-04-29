@@ -1,0 +1,674 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+.sec_1 {
+    background-image: url(./img/GEO-TERRAIN4-20\ 1.png);
+    background-color: rgb(24, 24, 24);
+}
+
+.razni {
+    font-family: "Inter";
+    text-align: center;
+    color: white;
+
+}
+
+.bosh {
+    width: 425px;
+    height: 646px;
+    background-color: #1F1F1F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.boyin {
+    width: 385px;
+    height: 606px;
+    border-radius: 15px;
+    border: 3px solid #FFFFFF0D;
+}
+
+.huhu {
+    font-family: "Inter";
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    color: #FFFFFF0D;
+}
+
+.ajal {
+    font-family: "Inter";
+    font-weight: 900;
+    font-size: 40px;
+    text-align: Center;
+    color: white;
+}
+
+.erasm2 {
+    text-align: center;
+    width: 234px;
+    height: 329px;
+    border-radius: 10px;
+    border: 3px solid#149EF2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.erasm3 {
+    text-align: center;
+    width: 234px;
+    height: 329px;
+    border-radius: 10px;
+    border: 3px solid #142AF2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.erasm {
+    text-align: center;
+    width: 234px;
+    height: 329px;
+    border-radius: 10px;
+    border: 3px solid #E637B7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.aajal {
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    font-family: "Inter";
+    font-size: 30px;
+}
+
+.akali {
+    font-family: "Inter";
+    color: #E637B7;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.aakali {
+    font-family: "Inter";
+    color: #149EF2;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.aaakali {
+    font-family: "Inter";
+    color: #142AF2;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+}
+.uchixa{
+    height: 1080px;
+    background-image: url(./img/GEO-TERRAIN4-20\ 1.png);
+    background-color:rgb(24, 24, 24);
+}
+.uchixa_clan{
+    width: 700px;
+    height: 624px;
+    border-radius: 50px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #0E0E0E;
+}
+.madara{
+    width: 660px;
+    height: 584px;
+    border-radius: 30px;
+    border: 3px solid #FFFFFF0D;
+}
+
+
+.tanjiro{
+    font-family: "Inter";
+    font-size: 30px;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-left: 30px;
+    display: flex;
+}
+.rudeos{
+    width: 210px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #030303;
+    color: #FFFFFF33;
+    border: none;
+    margin-left: 30px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+}
+.sasuke{
+    width: 105px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #030303;
+    color: #FFFFFF33;
+    border: none;
+    margin-left: 30px;
+    font-size: 24px;
+    
+}
+.hakaga{
+    width: 105px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #030303;
+    color: #FFFFFF33;
+    border: none;
+    margin-left: 30px;
+    font-size: 24px;
+}
+.obito{
+    display: flex;
+}
+.ramyon{
+    width: 423px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #030303;
+    font-family: 223px;
+    font-size: 24px;
+    color: #484646;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.jeray{
+    width: 394px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #030303;
+    font-family: 223px;
+    font-size: 24px;
+    color: #484646;
+    display: flex;
+    padding-left: 20px;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.deydara{
+    width: 394px;
+    height: 154px;
+    border-radius: 10px;
+    background-color: #030303;
+    font-family: 223px;
+    font-size: 24px;
+    color: #484646;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 20px;
+    align-items: start;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.deus{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: #E637B7;
+    font-family: "Inter";
+    font-size: 23px;
+    margin-left: 30px;
+    margin-top: 40px;
+    border: none;
+}
+main{
+    background-color: black;
+}
+.aksi{
+    font-family: "Inter";
+    font-weight: 900;
+    font-style: italic;
+    font-size: 55px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.ota_big{
+    display: flex;
+    gap: 20px;
+}
+.colik{
+    width: 380px;
+    height: 210px;
+    background-color: #1B1B1B;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.lora{
+    font-family: "Inter";
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF ;
+    padding-top: 85px;
+}
+.black_hole{
+    font-size: 14px;
+    font-family: "Inter";
+    color: #FFFFFF;
+    padding-left: 30px;
+    padding-top: 45px;
+}
+
+.meu_meu{
+    width: 260px;
+    height:260px ;
+    background-color: #1B1B1B;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.sukuna{
+    color: #FFFFFF;
+    font-family: "Inter";
+    font-size: 16px;
+    text-align: center;
+    padding-top: 120px;
+}
+.saitama{
+    color: white;
+    font-size: 14px;
+    padding-top: 55px;
+    padding-left: 30px;
+}
+.gambare{
+    width: 200px;
+    height: 200px;
+    background-color: #1B1B1B;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.naruto{
+    color: #FFFFFF;
+    font-family: "Inter";
+    text-align: center;
+    font-size: 16px;
+    padding-top: 90px;
+}
+.itachi{
+    color: #FFFFFF;
+    font-family: "Inter";
+    font-size: 14px;
+    padding-left: 30px;  
+    padding-top: 30px;
+}
+.demons{
+    width: 525px;
+    height: 525px;
+    background-color: #0E0E0E;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.simbat{
+    font-family: "Inter";
+    font-size: 36px;
+    padding-top: 30px;
+    padding-left: 30px;
+    color: #FFFFFF;
+}
+.sudoto{
+    color: #FFFFFF;
+    font-family: "Inter";
+    padding-left: 30px;
+    margin: 0px;
+    padding-bottom: 5px;
+    
+}
+.ahju{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.soya{
+    color:#484646;
+}
+.hashirama{
+    display: flex;
+    gap: 10px;
+}
+.sakura{
+    font-family: "Inter";
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-left: 30px;
+    margin: 0px;
+    padding-bottom: 5px;
+}
+.sasorin{
+    font-family: "Inter";
+    font-size: 18px;
+    color: #484646;
+    width: 390px;
+    padding-left: 30px;
+    text-align: start;
+}
+.pnkk{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: #E637B7;
+    font-family: "Inter";
+    font-size: 23px;
+    margin-left: 30px;
+    
+  
+}
+footer{
+    background: url(./img/GEO-TERRAIN4-20\ 1.png);
+    background-color: #1B1B1B;
+    height: 810px;
+}
+.but_icon{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.phonk{
+    margin-right: 30px;
+}
+.img_eng{
+    width: 633px;
+    height: 525px;
+    background:url(./img/Rectangle\ 35.png);
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.img_vek{
+    position: absolute;
+    top: 1726px;
+    left: 720px;
+}
+.img_vek2{
+    position: absolute;
+    top: 2110px;
+    left: 682px;
+}
+.cask{
+    position: absolute;
+    top: 1825px;
+    left: 855px;
+}
+.bran{
+    position: absolute;
+    top: 1885px;
+    left: 975px;
+}
+.grut{
+    transform: rotate(90deg);
+    position: absolute;
+    top: 210px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 28px;
+    color: #FFFFFF;
+    left: 30px;
+    margin: 0px;
+  }
+.grut_{
+  transform: rotate(90deg);
+  position: absolute;
+  top: 90px;
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 28px;
+  color: #FFFFFF;
+  left: 13px;
+  margin: 0px;
+}
+.grut_1{
+    transform: rotate(90deg);
+    position: absolute;
+    top: 310px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 28px;
+    color: #ffffff;
+    left: 31px;
+    margin: 0px;
+    
+  }
+  .grut_2{
+    transform: rotate(90deg);
+    position: absolute;
+    top: 405px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 28px;
+    color: #FFFFFF;
+    left: 33px;
+    margin: 0px;
+  }
+  .grut_3{
+    transform: rotate(90deg);
+    position: absolute;
+    top: 500px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 28px;
+    color: #FFFFFF;
+    left: 25px;
+    margin: 0px;
+  }
+  .grut_4{
+    transform: rotate(90deg);
+    position: absolute;
+    top: 630px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 28px;
+    color: #FFFFFF;
+    left: 0px;
+    margin: 0px;
+    
+  }
+header{
+    height: 780px;
+    background: url(./img/Rectangle\ 1.png);
+}
+.lyu{
+    color: white;
+    font-style: italic;
+    font-family: "Inter";
+    font-size: 75px;
+    font-weight: 900;
+    margin: 0px;
+    
+}
+.mask{
+ display: flex; 
+ align-items: center;
+ gap: 60px; 
+ padding-top: 20px;
+ padding-left: 100px;
+}
+.sewiq{
+    width: 800px;
+    height: 500px;
+}
+.kitl{
+    color: white;
+    font-style: italic;
+    font-family: "Inter";
+    font-size: 35px;
+    font-weight: 600;
+}
+.polik{
+    padding-left: 100px;
+    font-weight: "Inter";
+    font-size: 34px;
+    color: #FFFFFF;
+    font-weight: 300;
+    margin: 0px;
+}
+.potik{
+    margin-top: 40px;
+}
+.btr{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFFFFF;
+    color: #E637B7;
+    font-family: "Inter";
+    font-size: 23px;
+    margin-left: 100px; 
+    margin-top: 40px;
+}
+.hed_2{
+    background: url(./img/GEO-TERRAIN4-20\ 1.png);
+    background-color: #141414;
+    height: 1101px;
+}
+.zona{
+    font-family: "Inter";
+    font-weight: 900;
+    font-size: 90px;
+    font-style: italic;
+    color: #ffffff;
+    padding-left: 200px;
+}
+.ota_hed{
+    height: 600px;
+}
+.stand{
+    color: #E637B7;
+}
+.xarak{
+    padding-left: 200px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.dics{
+    width: 152px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F1F1F;
+    border-radius: 15px;
+}
+.disc{
+    width: 132px;
+    height: 178px;
+    border: 3px solid #FFFFFF0D;
+    border-radius: 5px;
+}
+.pros{
+    font-family: "Inter";
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 2px;
+}
+.amd{
+    font-family: "Inter";
+    color:#FFFFFF80;
+    font-size: 10px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+}
+.div_imgs{
+    margin-left: 200px;
+    display: flex;
+    gap: 11px;
+}
+.imgf{
+    width: 123px;
+    height: 123px;
+    margin: auto;
+}
+.imgs{
+    width: 100%;
+    
+   
+}
+.xarakk{
+    padding-left: 200px;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.eksh{
+    width: 152px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F1F1F;
+    border-radius: 15px;
+}
+.shon{
+    width: 132px;
+    height: 178px;
+    border: 3px solid #E637B7;
+    border-radius: 5px;
+}
+.imgl{
+    background-color: #030303;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    padding-left: 22px;
+    margin: auto;
+    margin-top: 18px;
+}
+.imgs{
+   width: 100%;
+}
+.prot{
+    font-family: "Inter";
+    font-size: 10px;
+    text-align: center;
+    color: #FFFFFF4D;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 3px;
+}
+.sum{
+    font-family: "Inter";
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
